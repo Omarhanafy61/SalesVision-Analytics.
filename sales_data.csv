@@ -1,0 +1,14 @@
+order_id,order_date,product_id,product_name,category,region,quantity_sold,unit_price,revenue,cost,profit,payment_method
+ORD-001,2025-01-22,P006,Mechanical Keyboard,Accessories,Alexandria,1,1662.5,1662.5,980,682.5,Cash
+ORD-002,2025-01-09,P011,Desk Lamp,Home & Living,Cairo,2,741,1482,720,762,Bank Transfer
+ORD-003,2025-02-08,P007,Running Shoes,Fashion,Alexandria,3,2100,6300,3450,2850,Card
+ORD-004,2025-03-16,P001,Wireless Headphones,Electronics,Cairo,1,1450,1450,850,600,Wallet
+ORD-005,2025-04-20,P010,Coffee Maker,Home & Living,Giza,4,1850,7400,4200,3200,Cash
+ORD-006,2025-05-22,P009,Cotton Hoodie,Fashion,Alexandria,1,950,950,430,520,Cash
+ORD-007,2025-06-04,P007,Running Shoes,Fashion,Giza,5,2100,10500,5750,4750,Bank Transfer
+ORD-008,2025-07-19,P001,Wireless Headphones,Electronics,Giza,2,1522.5,3045,1700,1345,Bank Transfer
+ORD-009,2025-08-16,P002,Smart Watch,Electronics,Cairo,5,2090,10450,6600,3850,Card
+ORD-010,2025-09-11,P010,Coffee Maker,Home & Living,Giza,1,1942.5,1942.5,1050,892.5,Card
+ORD-011,2025-10-23,P007,Running Shoes,Fashion,Alexandria,5,2100,10500,5750,4750,Cash
+ORD-012,2025-11-19,P002,Smart Watch,Electronics,Alexandria,3,2090,6270,3960,2310,Card
+ORD-013,2025-12-23,P007,Running Shoes,Fashion,Mansoura,1,2100,2100,1150,950,Cash
